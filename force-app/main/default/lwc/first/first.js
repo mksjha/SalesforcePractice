@@ -5,7 +5,7 @@ import WEBSITE_FIELD from '@salesforce/schema/Account.Website';
 
 /**
  * Creates Account records.
- */
+ **/
 export default class AccountCreator extends LightningElement {
 
     accountObject = ACCOUNT_OBJECT;
