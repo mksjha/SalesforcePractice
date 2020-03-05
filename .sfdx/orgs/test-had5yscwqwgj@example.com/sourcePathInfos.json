@@ -1,0 +1,302 @@
+[
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1583366221308,
+            "changeTime": 1583366221308,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1583366221310,
+            "changeTime": 1583366221310,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 448,
+            "modifiedTime": 1583317035283,
+            "changeTime": 1583365505134,
+            "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1583317035187,
+            "changeTime": 1583365505134,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1583317035187,
+            "changeTime": 1583365505134,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1583317035187,
+            "changeTime": 1583365505133,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/contentassets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1583317035188,
+            "changeTime": 1583365505132,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1583317035188,
+            "changeTime": 1583365505133,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1583317035188,
+            "changeTime": 1583365505134,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/lwc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1583317691585,
+            "changeTime": 1583365505132,
+            "contentHash": "b98ac95fde70094da505e020a7d3f8f07eeaed13",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/lwc/first",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/lwc/first",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1583317691586,
+            "changeTime": 1583365505130,
+            "contentHash": "91c61c12dc97619bd61a0551c70e5a10468e0b83",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/lwc/first/first.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/lwc/first/first.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 171,
+            "modifiedTime": 1583320437790,
+            "changeTime": 1583365505130,
+            "contentHash": "5f3fc438a8b37396154cf7fdcfd83443f15b3aa6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/lwc/first/first.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/lwc/first/first.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 550,
+            "modifiedTime": 1583385430533,
+            "changeTime": 1583385430533,
+            "contentHash": "caa5fb7be253d283d834c16f94405cc7d52c968f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/lwc/first/first.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/lwc/first/first.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 328,
+            "modifiedTime": 1583362600076,
+            "changeTime": 1583365505129,
+            "contentHash": "a10e5cba8f47bcb961b0163eb497ea49ccae0a0f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1583317035188,
+            "changeTime": 1583365505133,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1583317035188,
+            "changeTime": 1583365505132,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1583317035188,
+            "changeTime": 1583365505133,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1583317035188,
+            "changeTime": 1583365505132,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/triggers",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice/force-app/main/default/triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1583317035188,
+            "changeTime": 1583365505133,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jham6/Documents/GitHub/SalesforcePractice",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jham6/Documents/GitHub/SalesforcePractice",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1583365783722,
+            "changeTime": 1583365783722,
+            "contentHash": "8eb20ada68e524d3064f686b6e06bfac92d54ea1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
