@@ -9,41 +9,52 @@ describe('Login Page', function() {
 
         cy.request(`${instanceUrl}/secur/frontdoor.jsp?sid=${sessionId}`)
         //cy.visit(`${instanceUrl}/lightning/o/Account/list?filterName=00B2w000006DY5LEAW`)
-        cy.visit(`${instanceUrl}/lightning/o/Account/list?filterName=00B0w000001ZggaEAC`)
+        cy.visit(`${instanceUrl}/lightning/o/Account/list?filterName=Recent`)
     })
      //cy.visit('https://mksjha-dev-ed.lightning.force.com/lightning/o/Account/list?filterName=00B2w000006DY7nEAG')
     
      //.get('.forceOutputLookup', {timeout: 10000}).contains('Burlington Textiles Corp of America').click()
 
-     .get('.forceOutputLookup', {timeout: 10000}).contains('Test').click()
+     .get('.forceOutputLookup', { timeout: 10000 })
+      .contains('Browser')
+      .click();
 
      cy.wait(5000);
     debugger;
     cy.shadowGet('one-record-home-flexipage2')
     .shadowFind('forcegenerated-flexipage_account_record_page_account__view_js')
-    //  .shadowFind('flexipage-record-page-decorator')
-    //  .shadowFind('flexipage-record-home-three-col-template-desktop2')
-    //  .shadowFind('flexipage-record-home-scrollable-column')
-    //  .shadowFind('flexipage-component2')
-     .shadowFind('c-first')
+    .shadowFind('flexipage-record-page-decorator')
+    .shadowFind('flexipage-record-home-three-col-template-desktop2')
+    .shadowFind('flexipage-record-home-scrollable-column')
+    .shadowLast()
+    .shadowFind('flexipage-component2')
+    .shadowEq(1)
+    .shadowFind('force-progressive-renderer')
+    .shadowFind('c-first')
     .shadowFind('lightning-record-edit-form')
     .shadowFind('lightning-input-field')
     .shadowFind('lightning-input')
     .shadowFind('input[name="Name"]')
-    
-    .shadowType('Browser') 
-    
-    
-    
-   cy.shadowGet('one-record-home-flexipage2')
+
+    .shadowType('Browser')
+
+
+
+    cy.shadowGet('one-record-home-flexipage2')
     .shadowFind('forcegenerated-flexipage_account_record_page_account__view_js')
-    
+    .shadowFind('flexipage-record-page-decorator')
+    .shadowFind('flexipage-record-home-three-col-template-desktop2')
+    .shadowFind('flexipage-record-home-scrollable-column')
+    .shadowLast()
+    .shadowFind('flexipage-component2')
+    .shadowEq(1)
+    .shadowFind('force-progressive-renderer')
     .shadowFind('c-first')
     .shadowFind('lightning-record-edit-form')
     .shadowFind('lightning-input-field')
     .shadowFind('lightning-input')
     .shadowFind('input[name="Website"]')
-    .shadowType('Browser website') 
+    .shadowType('Browser website')
     
   //  cy.shadowGet('one-record-home-flexipage2')
   //   .shadowFind('forcegenerated-flexipage_account_record_page_account__view_js')
@@ -58,14 +69,20 @@ describe('Login Page', function() {
   //   .shadowFind('textarea[name="Description"]')
   //   .shadowType('Browser desc') 
     
-    cy.shadowGet('one-record-home-flexipage2')
-    .shadowFind('forcegenerated-flexipage_account_record_page_account__view_js')
-    
-    .shadowFind('c-first')
-    .shadowFind('lightning-record-edit-form')
-    .shadowFind('lightning-button')
-    .shadowFind('button[type="submit"]')
-    .shadowClick({ force: true });
+  cy.shadowGet('one-record-home-flexipage2')
+  .shadowFind('forcegenerated-flexipage_account_record_page_account__view_js')
+  .shadowFind('flexipage-record-page-decorator')
+  .shadowFind('flexipage-record-home-three-col-template-desktop2')
+  .shadowFind('flexipage-record-home-scrollable-column')
+  .shadowLast()
+  .shadowFind('flexipage-component2')
+  .shadowEq(1)
+  .shadowFind('force-progressive-renderer')
+  .shadowFind('c-first')
+  .shadowFind('lightning-record-edit-form')
+  .shadowFind('lightning-button')
+  .shadowFind('button[type="submit"]')
+  .shadowClick({ force: true });
 
   })
 
