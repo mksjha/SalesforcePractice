@@ -3,6 +3,8 @@ import ACCOUNT_OBJECT from '@salesforce/schema/Account';
 import NAME_FIELD from '@salesforce/schema/Account.Name';
 import WEBSITE_FIELD from '@salesforce/schema/Account.Website';
 import TYPE_FIELD from '@salesforce/schema/Account.Type';
+import PRIORITY_FIELD from '@salesforce/schema/Account.AccountSource';
+
 //import OWNER_FIELD from '@salesforce/schema/Account.OwnerId';
 //import DATE_FIELD from '@salesforce/schema/Account.SLAExpirationDate__c';
 // import DESCRIPTION from '@salesforce/schema/Account.Description';
@@ -15,6 +17,7 @@ export default class AccountCreator extends LightningElement {
     nameField = NAME_FIELD;
     websiteField = WEBSITE_FIELD;
     typeField = TYPE_FIELD; 
+    priority = PRIORITY_FIELD; 
     // Description =DESCRIPTION;
    
     
